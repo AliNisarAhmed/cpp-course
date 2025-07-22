@@ -1,4 +1,5 @@
 #include <iostream>
+
 int main() {
   constexpr int a{7};
   const int *aPtr{&a};
